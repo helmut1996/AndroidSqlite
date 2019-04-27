@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PracticaSQLite2</string>
+    <string name="btn1">agregar usuarios</string>
+    <string name="btn2">consultar usuarios</string>
+    <string name="btn3">lista de usuarios con spiner</string>
+    <string name="btn4">lista de usuarios con list view</string>
+    <string name="txt_texto">Practica 2 SQLite</string>
+
+
+    <string name="txt_registro">Registrar Usuarios</string>
+    <string name="txt_nombre">Nombre</string>
+    <string name="txt_id">id</string>
+    <string name="txt_tel">Telefono</string>
+    <string name="btn_guardar">Registrar</string>
+
+    <string name="btn_eleminar">eliminar</string>
+    <string name="btn_actualizar">editar</string>
+    <string name="txt_consulta">Mostrar Usuarios</string>
+    <string name="buscar">buscar</string>
+
+</resources>
